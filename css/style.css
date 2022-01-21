@@ -2,6 +2,10 @@ body {
   background-color: black;
 }
 
+button :visited {
+  visibility: hidden;
+}
+
 #size {
   width: 125px;
   height: 50px;
